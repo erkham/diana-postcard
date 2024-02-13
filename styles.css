@@ -91,8 +91,6 @@ body {
   top:250px;
   width:300px;
   margin: auto auto 40px;
-  /*display:block;*/
-  /*word-break: break-all;*/
   text-align: center;
   color:#ff3399;
 }
@@ -103,14 +101,13 @@ body {
   top:250px;
   width:320px;
   margin:auto;
-  /*display:block;*/
   word-break: break-all;
   text-align: center;
   color:#ff3399;
 }
 
 #text-3 {
-  font-size: 18px;
+  font-size: 24px;
   color: #985d7b;
 }
 
